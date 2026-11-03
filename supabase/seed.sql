@@ -1,0 +1,2 @@
+-- Dados de demonstração serão adicionados depois da definição do modelo relacional.
+-- Nunca incluir credenciais, dados pessoais reais ou segredos neste ficheiro.
